@@ -1,3 +1,7 @@
+/**
+ *  Credit to Datacorelinux for the score renderer
+ * **/
+
 #include <SDL2/SDL.h>
 #include <stdio.h>
 #include <stdlib.h>
